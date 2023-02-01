@@ -2,8 +2,8 @@
   "name": "@sepoina/usedialog",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/useDialog.js",
-  "module": "dist/useDialog.js",
+  "main": "dist/useDialog/useDialog.js",
+  "module": "dist/useDialog/useDialog.js",
   "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
