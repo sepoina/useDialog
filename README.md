@@ -7,8 +7,8 @@ Accetta una struttura in ingresso
         dialogHeader: 'Scegli qualcosa',
         dialogText: 'Questa è la domanda che ti pongo, cancello?',
         confirmBtt: 'Cancella',
-        rejectBtt: 'Annulla',
-      }
+        rejectBtt: 'Annulla'
+}
 ```
 
 ### demo
