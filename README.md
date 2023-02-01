@@ -50,13 +50,15 @@ function App() {
   );
 }
 ```
-Accetta una struttura in ingresso
+
+Struttura in ingresso
+-----  
 ```js
 {
-        dialogHeader: 'Scegli qualcosa',
-        dialogText: 'Questa è la domanda che ti pongo, cancello?',
-        confirmBtt: 'Cancella',
-        rejectBtt: 'Annulla'
+        dialogHeader: 'Title', 
+        dialogText: 'Question',
+        confirmBtt: 'Option1',
+        rejectBtt: 'Option2'
 }
 ```
 
