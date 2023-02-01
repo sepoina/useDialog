@@ -71,4 +71,4 @@ Demo on stackblitz
 ----
 https://stackblitz.com/edit/react-je8n9n-yqc1qy?file=demo.js
 
-[![](this_web/img/buy-me-a-coffee-with-paypal.png)](https://www.paypal.com/paypalme/giancarloghigi)
+[![](https://github.com/sepoina/Gsync/blob/e7ebba614012f4969394c5a374d0d748e81c6cda/this_web/img/buy-me-a-coffee-with-paypal.png?raw=true)](https://www.paypal.com/paypalme/giancarloghigi)
