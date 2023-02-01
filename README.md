@@ -67,7 +67,8 @@ Struttura in ingresso
 (onReject) => { console.log("Option2!")}
 ```
 
-### demo
+Demo on stackblitz
+----
 https://stackblitz.com/edit/react-je8n9n-yqc1qy?file=demo.js
 
 [![](this_web/img/buy-me-a-coffee-with-paypal.png)](https://www.paypal.com/paypalme/giancarloghigi)
