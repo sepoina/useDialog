@@ -59,7 +59,9 @@ Struttura in ingresso
         dialogText: 'Question',
         confirmBtt: 'Option1',
         rejectBtt: 'Option2'
-}
+},
+(onConfirm) => { console.log("Option1!")}, 
+(onReject) => { console.log("Option2!")}
 ```
 
 ### demo
