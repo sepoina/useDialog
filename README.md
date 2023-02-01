@@ -2,7 +2,7 @@
 React hooks for view simple Dialog fom javascript
 
 Accetta una struttura in ingresso
-```json
+```js
 {
         dialogHeader: 'Scegli qualcosa',
         dialogText: 'Questa è la domanda che ti pongo, cancello?',
