@@ -1,6 +1,7 @@
 # useDialog 
 [![npm version](https://img.shields.io/npm/v/react-universal-hooks.svg?style=flat)](https://www.npmjs.org/package/react-universal-hooks)
 ![Script size](https://img.badgesize.io/sepoina/useDialog/main/dist/useDialog/useDialog.js?label=Script%20size&color=yellow)
+![Script size](https://badgen.net/badge/github/release/babel/babel)
 
 React hooks for view simple Dialog fom javascript<br/>
 Ambiente React / mui<br/><br/><br/>
